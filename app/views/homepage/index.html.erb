@@ -1,0 +1,5 @@
+<h1>  Hello from Index </h1>
+
+<% Completedua.all.each do |x| %>
+	<p> NAME: <%= x.name %> , CLIENT_ID: <%= x.client_id %>, LINK: <a href=<%= x.link %>>here</a>, COMPLETED: <%= x.lastcompleted %> </p> 
+<% end %>

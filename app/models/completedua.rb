@@ -1,0 +1,2 @@
+class Completedua < ApplicationRecord
+end
