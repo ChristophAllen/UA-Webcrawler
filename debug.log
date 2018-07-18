@@ -1,0 +1,16 @@
+[0619/131854.420:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0619/131854.422:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0619/131854.423:ERROR:exception_snapshot_win.cc(88)] thread ID 12264 not found in process
+[0619/131854.423:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0619/224907.656:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0619/224907.659:ERROR:exception_snapshot_win.cc(88)] thread ID 10880 not found in process
+[0619/224907.659:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0620/013020.869:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0620/013020.872:ERROR:exception_snapshot_win.cc(88)] thread ID 1284 not found in process
+[0620/013020.872:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0625/002543.736:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0625/002543.736:ERROR:exception_snapshot_win.cc(88)] thread ID 7740 not found in process
+[0626/000353.184:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0626/000353.184:ERROR:exception_snapshot_win.cc(88)] thread ID 4660 not found in process
+[0630/085814.044:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0630/085814.047:ERROR:exception_snapshot_win.cc(88)] thread ID 12204 not found in process
